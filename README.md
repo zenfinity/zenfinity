@@ -1,5 +1,4 @@
 ### Hi! 👋
-## Data Visualization Engineer | Helping professionals and companies tell the stories buried in their data
 
 My purpose is to connect people to each other and what's important to them. I like creating compelling visuals that reveal relationships and meaning otherwise concealed within data. In my free time I enjoy meditation, coffee, and nature.
 
