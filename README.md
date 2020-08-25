@@ -10,7 +10,7 @@ My purpose is to connect people to each other and what's important to them. I li
 - Collaborative design and problem solving
 - Solar photovoltaic system design and installation. 
 
-###📫 Reach me on [LinkedIn](https://www.linkedin.com/in/imacmoore/) 
+### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/imacmoore/) 
 <!--
 **zenfinity/zenfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
