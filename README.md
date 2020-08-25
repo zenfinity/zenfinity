@@ -4,6 +4,8 @@ My purpose is to connect people to each other and what's important to them. I li
 
 ### Specialties:  
 - Data analysis and visualization
+-- Front End: HTML, CSS, JavaScript, d3, Plot.ly, matplotlib, leaflet, Google Maps, Tableau, Excel
+-- Back End: Python, Jupyter, Pandas, SQL, MongoDB, Flask, Heroku, Google API, RESTful APIs
 - Energy and resource monitoring technology
 - Collaborative design and problem solving
 - Solar photovoltaic system design and installation. 
