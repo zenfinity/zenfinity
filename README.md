@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My purpose is to nourish, connect, and spark people by sharing knowledge, food, and non-alcholic drinks. I create safe and healthy spaces where learning, growth, and joy flourish. In my free time I enjoy meditation, coffee, painting, photography, music, and nature.
+My purpose is to nourish, connect, and spark people by sharing knowledge, food, and non-alcholic drinks. I create safe and healthy spaces where learning, growth, and joy flourish. In my free time I enjoy meditation, coffee, mixology, painting, photography, music, and nature.
 
 ### Specialties:  
 - Data analysis and visualization
