@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My purpose is to nourish, connect, and spark people by sharing knowledge, food, and non-alcoholic drinks. I create safe and healthy spaces where learning, growth, and joy flourish. Highly skilled in listening for what matters, providing solutions, and communicating complex ideas to a broad audience. 
+My purpose is inspiring action by sharing compelling and artful data. I create safe and healthy spaces where learning, growth, and joy flourish. Adept at communicating complex information for a broad audience, and implementing the best technology for a challenge.  
 
 Specialties:  
 - Data analysis and visualization
@@ -11,8 +11,7 @@ Specialties:
 - Collaborative design and problem solving
 - Solar photovoltaic system design and installation. 
 
-In my free time I enjoy meditation, coffee, mixology, painting, photography, music, and nature.
-
+In my free time I enjoy nature, meditation, coffee, (non-alcoholic) mixology, music, painting, photography, and movies & series.
 ### 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/imacmoore/) 
 <!--
 **zenfinity/zenfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
