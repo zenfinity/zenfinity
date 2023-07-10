@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My purpose is inspiring action by sharing compelling and artful data. I create safe and healthy spaces where learning, growth, and joy flourish. Adept at communicating complex information for a broad audience, and implementing the best technology for a challenge.  
+Inspiring action by sharing passion for people and nature through compelling and artful data. Adept at communicating complex information for a broad audience, and implementing the best technology for a challenge.    
 
 Specialties:  
 - Data analysis and visualization
