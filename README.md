@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-Inspiring action by sharing passion for people and nature through compelling and artful data. Adept at communicating complex information for a broad audience, and implementing the best technology for a challenge.    
+Inspiring discovery by sharing passion for people and nature through compelling and artful data. Adept at communicating complex information for a broad audience, and implementing the best technology for a challenge.    
 
 Specialties:  
 - Data analysis and visualization
